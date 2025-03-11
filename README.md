@@ -1,10 +1,13 @@
 # Foundation of Machine Learning (Project)
 Tema d'anno per esame: Fondamenti di Machine Learning, PoliBa.
 
-## Dataset
+## Recommendation Systems
+Usando le tecniche di *collaborative filtering* e *content-base filtering*.
+
+### Dataset
 [MovieLens](https://grouplens.org/datasets/movielens/)
 
-## Packages Utilizzati
+### Packages Utilizzati
 - [pandas](https://pandas.pydata.org/)
 - [numpy](https://numpy.org/)
 - [matplotlib](https://matplotlib.org/)
