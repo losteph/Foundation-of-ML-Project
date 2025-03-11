@@ -1,4 +1,4 @@
-# Foundation-of-ML-Project
+# Foundation of Machine Learning (Project)
 Tema d'anno per esame: Fondamenti di Machine Learning, PoliBa.
 
 ## Dataset
