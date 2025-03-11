@@ -3,9 +3,10 @@ Tema d'anno per esame: Fondamenti di Machine Learning, PoliBa.
 
 ## Recommendation Systems
 Usando le tecniche di *collaborative filtering* e *content-base filtering*.
+Progetto realizzato tramite Google [colab](https://colab.research.google.com/).
 
 ### Dataset
-[MovieLens](https://grouplens.org/datasets/movielens/)
+- [MovieLens](https://grouplens.org/datasets/movielens/)
 
 ### Packages Utilizzati
 - [pandas](https://pandas.pydata.org/)
